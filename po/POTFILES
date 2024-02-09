@@ -1,0 +1,6 @@
+data/com.andrewanderson.browz.desktop.in
+data/com.andrewanderson.browz.appdata.xml.in
+data/com.andrewanderson.browz.gschema.xml
+src/main.py
+src/window.py
+

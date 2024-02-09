@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="browz">
+    <schema id="com.andrewanderson.browz" path="/com/andrewanderson/browz/">
+        <key name="ask-default" type="b">
+            <default>true</default>
+            <summary>Ask to be default</summary>
+            <description>Whether or not Browz should ask to be the default web browser</description>
+        </key>
+        <key name="url-mapping" type="aas">
+            <default>[]</default>
+            <summary>UrlMappings</summary>
+            <description>URLs that are automatically opened with a specific browser</description>
+        </key>
+    </schema>
+</schemalist>

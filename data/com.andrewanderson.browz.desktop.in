@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=browz
+Exec=browz %U
+Terminal=false
+Type=Application
+Icon=web-browser
+Categories=GTK;Network;
+StartupNotify=false
+MimeType=text/html;text/xml;application/xhtml_xml;x-scheme-handler/http;x-scheme-handler/https;

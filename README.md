@@ -17,6 +17,10 @@ When you run `browz` for the first time, it will ask you whether you want to set
 
 ---------------
 
+This repo is a renamed fork of the unmaintained [braus](https://github.com/properlypurple/braus) app.
+
+---------------
+
 © 2020 Kavya Gokul
 
 © 2024 Andrew D. Anderson

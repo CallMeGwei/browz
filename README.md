@@ -2,7 +2,7 @@
 
 A small linux application to select a browser every time you click a url. This is especially useful if you have multiple browsers or browser profiles and you want to be able to open certain links in certain browsers. Useful for web developers and others.
 
-GNU/Linux alternative to apps such as Braus/Choosy/Browserchooser
+GNU/Linux alternative to apps such as Choosy or Browserchooser
 
 #### Build instructions
 

@@ -4,6 +4,10 @@ A small linux application to select a browser every time you click a url. This i
 
 GNU/Linux alternative to apps such as Choosy or Browserchooser
 
+<p align="center">
+<img src="https://github.com/CallMeGwei/browz/assets/34364155/d9d9daf2-cab3-454f-b787-b017735635c4" />
+</p>
+
 #### Build instructions
 
 ```bash
